@@ -39,9 +39,9 @@ bot.ReplyMessage(string ReplyToken, string Message)
 bot.PushMessage(string ToUserID, ButtonTemplate message)
 ```
 # Inspired By
--[.Net Walker](http://studyhost.blogspot.tw/2016/12/)
-
+- [.Net Walker](http://studyhost.blogspot.tw/search/label/LineBot)
+- [卡米狗](https://zh-tw.facebook.com/kamigo01/)
 # Demo
-![]image(https://goo.gl/0Loaaz)
+![](image/File_000.png)
 
 
